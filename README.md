@@ -7,7 +7,7 @@ DeliveBoo name derived from the fusion of "Delivery" and "Boolean," DeliveBoo ca
 <br>
 So sit back, relax, and enjoy the video demonstration of this innovative food delivery web app that combines cutting-edge technology with a passion for exceptional dining experiences.<br>
 
-[![](https://markdown-videos.deta.dev/youtube/RZeFQ-sgTyE)](https://youtu.be/RZeFQ-sgTyE)
+{% include youtube.html id="RZeFQ-sgTyE" %}
 
 # Vue 3 + Vite
 
